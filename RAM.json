@@ -1,8 +1,12 @@
 {
   {
-  
+    "name": "DDR5 8 GB - 125€",
+    "size": "8 GB",
+    "Price": 125
   }, 
   {
-    
+    "name": "DDR5 16 GB - ",
+    "size": "16 GB",
+    "Price": 290 
   }
 }
