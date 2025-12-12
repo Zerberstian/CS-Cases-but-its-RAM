@@ -7,6 +7,7 @@ class RAM:
   def __init__(self, name):
     self.name = name
     for i in RAM_Riegel:
-      if i ['name'] == name:
+      if i ['ID] == id:
+        self.category = i['category']
         self.size = i['size']
         self.Price = i['Price']
