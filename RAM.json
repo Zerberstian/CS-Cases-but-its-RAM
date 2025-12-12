@@ -59,4 +59,34 @@
     "size": "128 GB",
     "Price": 340
   },
+  {
+    "ID": 11,
+    "category": "DDR 3",
+    "size": "8 GB",
+    "Price": 53
+  }, 
+  {
+    "ID": 12,
+    "category": "DDR 3",
+    "size": "16 GB",
+    "Price": 100
+  },
+  {
+    "ID": 13,
+    "category": "DDR 3",
+    "size": "32 GB",
+    "Price": 130
+  },
+  {
+    "ID": 14,
+    "category": "DDR 3",
+    "size": "64 GB",
+    "Price":  200
+  },
+  {
+    "ID": 15,
+    "category": "DDR 3",
+    "size": "128 GB",
+    "Price": 340
+  },
 }
