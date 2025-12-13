@@ -4,104 +4,104 @@
     "category": "DDR 5",
     "size": "8 GB",
     "Price": 70,
-    "rare": blue
+    "rare": "blue"
   }, 
   {
     "ID": 2,
     "category": "DDR 5",
     "size": "16 GB",
     "Price": 106,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 3,
     "category": "DDR 5",
     "size": "32 GB",
     "Price": 290,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 4,
     "category": "DDR 5",
     "size": "64 GB",
     "Price":  500,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 5,
     "category": "DDR 5",
     "size": "128 GB",
     "Price": 850,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 6,
     "category": "DDR 4",
     "size": "8 GB",
     "Price": 53,
-    "rare": blue
+    "rare": "blue"
   }, 
   {
     "ID": 7,
     "category": "DDR 4",
     "size": "16 GB",
     "Price": 100,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 8,
     "category": "DDR 4",
     "size": "32 GB",
     "Price": 130,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 9,
     "category": "DDR 4",
     "size": "64 GB",
     "Price":  200,
-    ""rare":
+    "rare": ""
   },
   {
     "ID": 10,
     "category": "DDR 4",
     "size": "128 GB",
     "Price": 340,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 11,
     "category": "DDR 3",
     "size": "8 GB",
     "Price": 30,
-    "rare": blue
+    "rare": "blue"
   }, 
   {
     "ID": 12,
     "category": "DDR 3",
     "size": "16 GB",
     "Price": 60,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 13,
     "category": "DDR 3",
     "size": "32 GB",
     "Price": 65,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 14,
     "category": "DDR 3",
     "size": "64 GB",
     "Price":  120,
-    "rare":
+    "rare": ""
   },
   {
     "ID": 15,
     "category": "DDR 3",
     "size": "128 GB",
     "Price": 22,
-    "rare":
+    "rare": ""
   },
 }
